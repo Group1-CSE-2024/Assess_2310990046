@@ -1,0 +1,2 @@
+this is first line for txt file
+this is second line for txt file in sub_1 as it is being tracked

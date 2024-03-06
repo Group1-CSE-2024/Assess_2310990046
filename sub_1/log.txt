@@ -1,0 +1,339 @@
+    1  git config --global user.name "Arun garg"
+    2  git config --global user.email "arungarg57460@gmail.com"
+    3  cd u:/git
+    4  git log
+    5  git status
+   32  git log
+   33  git log
+   34  git branch arun 
+   35  git branch
+   36  ls
+   37  echo "hello">>hello
+   38  git add .
+   39  git commit -m "try"
+   40  git log
+   41  git log --oneline
+   42  git log help
+   43  git log --help
+   44  cat hello
+   45  history
+   46  git config --list
+   47  cd u:/git
+   48  git config --list
+   49  git config--list
+   50  git remote
+   51  git remote add origin
+   52  git remote add origin https://github.com/Mr-Phantomm/git1.git
+   53  cd U:/git1
+   54  git remote add origin https://github.com/Mr-Phantomm/git1.git
+   55  git remote
+   56  git push -u origin main
+   57  git push u origin main
+   58  git push -u origin master
+   59  cd u:/git1
+   60  git push -u origin master
+   61  git --version
+   62  git config --global user.name "Arun"
+   63  git config --global user.email "arungarg57460@gmail.com"
+   64  git log
+   65  cd u:/git
+   66  cd U:/git
+   67  cd u:/git1
+   68  git log
+   69  git branch arun
+   70  git branch dev1
+   71  clearclear
+   72  clear
+   73  git branch
+   74  git checkout arun
+   75  cd u:/git1
+   76  git init
+   77  ls -la
+   78  git status
+   79  cat hello.txt
+   80  cat .hello.c.swo
+   81  cat hello
+   82  touch arun
+   83  git status
+   84  history
+   85  cd u:/git
+   86  cd u:/git/task1
+   87  cd U:\git\2310990046_14feb\task1
+   88  cd U:\git\2310990046_14feb\task1
+   89  /2310990046_14feb/task1
+   90  cd U:/git/2310990046_14feb/task1
+   91  cd u:/git
+   92  mkdir project2
+   93  mkdir u:/project_2
+   94  history
+   95  cd u:/git/2310990046_14feb/task1
+   96  ls
+   97  cat arun
+   98  cat hello.c
+   99  gcc -o hello hello.c
+  100  ./hello.exe
+  101  ls
+  102  cd u:/
+  103  cd git
+  104  cd project2
+  105  mkdir 21stfeb
+  106  git init
+  107  vi hello.c
+  108  gcc -o hello hello.c
+  109  vi hello.c
+  110  gcc -o hello hello.c
+  111  ./hello.exe
+  112  history
+  113  echo "hello ignore later">>hello
+  114  git status
+  115  git add .
+  116  git status
+  117  git commit -m "learning git ignore"
+  118  echo "Anyhow this is to be ignored">>hello
+  119  git status
+  120  git add .
+  121  git status
+  122  git commit -m "modify"
+  123  git status
+  124  git ignore
+  125  git log
+  126  vi hello.c'
+  127  n
+  128  1wd
+  129  d
+  130  clear
+  131  ignore
+  132  history
+  133  cd U:/git/project2
+  134  ls
+  135  cd 21stfeb
+  136  ls
+  137  ls -ah
+  138  cd ..
+  139  git log
+  140  git branch test
+  141  git checkout test
+  142  cat hello
+  143  cat hello.txt
+  144  git checkout
+  145  HISTORY
+  146  history
+  147  mkdir ignored folder
+  148  cd ignored folder
+  149  cd ignored folder
+  150  cd ignored
+  151  vi .gitignore
+  152  git init
+  153  git add .
+  154  git commit -m "git ignore initialised"
+  155  git log
+  156  git add .
+  157  git status
+  158  vi .gitignore
+  159  git add .
+  160  git commit -m "ignore v2"
+  161  git status
+  162  cd /
+  163  cd u:/git/project2
+  164  vi .gitignore
+  165  git add .
+  166  git add .
+  167  git commit -m "ignore"
+  168  git status
+  169  cd u:/git
+  170  mkdir 23feb
+  171  cd 23feb
+  172  git init
+  173  vi hello.txt
+  174  git add .
+  175  git commit -m "first commit"
+  176  vi hello.txt
+  177  git add .
+  178  git commit -m "second commit main branch"
+  179  git log --oneline
+  180  git branch dev1
+  181  git branch
+  182  git checkout dev1
+  183  cat hello.txt
+  184  vi hello.txt
+  185  vi hello.txt
+  186  git add .
+  187  git commit -m "first commit on dev1 branch"
+  188  git log --oneline
+  189  vi hello.txt
+  190  git add .
+  191  git commit -m "second commit on dev1 code ready for looping dev2"
+  192  cat hello.txt
+  193  git checkout
+  194  git checkout master
+  195  cat hello.txt
+  196  git checkout dev1
+  197  git branch dev2
+  198  git checkout dev2
+  199  git log --oneline
+  200  vi hello.txt
+  201  git add .
+  202  git commit -m "first commit on dev2 line 5 added"
+  203  cat hello.txt
+  204  git checkout dev1
+  205  git merge dev2 dev1
+  206  cat hello.txt
+  207  git status
+  208  git log --oneline
+  209  git checkout master
+  210  git log --oneline
+  211  vi hello.txt
+  212  git add .
+  213  git commit -m "third commit line"
+  214  git log --oneline
+  215  git merge master dev2
+  216  diff commit1 commit2
+  217  git mergetool
+  218  git checkout dev1
+  219  git commit -m "another commit"
+  220  git checkout dev1
+  221  git merge master dev1
+  222  git mergetool
+  223  git checkout master
+  224  cat hello.txt
+  225  git log --oneline
+  226  cd u:/git
+  227  mkdir 23feb_v2
+  228  cd 23feb_v2
+  229  vi calcu.c
+  230  git add .
+  231  git commit -m "first commit on main branch"
+  232  vi calcu.c'
+  233  calcu.c 
+  234  c
+  235  z
+  236  esc
+  237  calcu.c
+  238  ~:wq
+  239  :wq
+  240  cd u:/git/23feb_v2
+  241  vi calcu.c
+  242  gcc -o calcu calcu.c
+  243  vi calcu.c
+  244  gcc -o calcu calcu.c
+  245  ./calcu
+  246  vi calcu.c
+  247  git init
+  248  git add.
+  249  git add .
+  250  git commit -m "first commit on master branch"
+  251  git log --oneline
+  252  vi calcu.c
+  253  vi calcu.c
+  254  git branch dev1
+  255  git checkout dev1
+  256  vi calcu.c
+  257  ./calcu
+  258  gcc -o calcu calcu.c
+  259  vi calcu.c
+  260  gcc -o calcu calcu.c
+  261  vi calcu.c
+  262  gcc -o calcu calcu.c
+  263  vi calcu.c
+  264  vi calcu.c
+  265  cd U:\git\2310990046_14feb\task1
+  266  cd u:/git/2310990046_14feb/task1
+  267  ls
+  268  git log
+  269  cd U:/git/23feb_v2
+  270  ls
+  271  vi calcu.c
+  272  ./calcu
+  273  gcc -o calcu calcu.c
+  274  git branch
+  275  git checkout dev1
+  276  git add .
+  277  git commit -m "1st commit"
+  278  git log
+  279  git checkout 
+  280  git checkout master
+  281  git merge master dev1
+  282  cd U:/git/23feb
+  283  git branch
+  284  echo "# 23feb" >> README.md
+  285  git init
+  286  git add README.md
+  287  git commit -m "first commit"
+  288  git branch -M main
+  289  git remote add origin https://github.com/Mr-Phantomm/23feb.git
+  290  git push -u origin main
+  291  cd ..
+  292  pwd
+  293  git status
+  294  cd . .
+  295  cd ..
+  296  cd git 
+  297  git status
+  298  cd ..
+  299  pwd
+  300  ls
+  301  mkdir newfolderforclone
+  302  cd newfolderforclone
+  303  git clone https://github.com/MonitKapoor/23feb
+  304  ls
+  305  cd 23feb
+  306  ls
+  307  cat hello.txt
+  308  ls -ah
+  309  git branch
+  310  git branch dev1
+  311  git checkout dev1
+  312  git log --oneline
+  313  git pull
+  314  git branch --set-upstream-to=origin/dev1 dev1
+  315  git log 
+  316  git pull
+  317  git log
+  318  git pull
+  319  git checkout main
+  320  exit
+  321  cd u:/
+  322  ls
+  323  cd newfolderforclone
+  324  git clone https://github.com/Mr-Phantomm/23feb-1
+  325  git log
+  326  git clone https://github.com/Mr-Phantomm/16hfeb_class
+  327  cd 16hfeb_class
+  328  git log
+  329  cd u:/
+  330  mkdir Assess_2310990046
+  331  cd Assess_2310990046
+  332  cd u:/git
+  333  ls -ah
+  334  ls -ah
+  335  mkdir Assess_2310990046
+  336  cd Assess_2310990046
+  337  mkdir sub_1
+  338  mkdir sub_2
+  339  vi .gitignore
+  340  vi hello.c
+  341  vi hello.txt
+  342  vi third.html
+  343  git init 
+  344  git add .
+  345  git commit -m "1st commit for adding all the files to tracking system"
+  346  vi third.html
+  347  git add .
+  348  git commit -m "edited the html file"
+  349  vi hello.c
+  350  git add .
+  351  git commit -m "3rd commit for editing the c file"
+  352  ls
+  353  cd sub_1
+  354  ls
+  355  vi .gitignore
+  356  vi hello.txt
+  357  git status
+  358  git add .
+  359  git status
+  360  git commit -m "demonstrating that our txt file is being tracked in sub_1 folder"
+  361  git log
+  362  cd u:/git/Assess_2310990046
+  363  pwd
+  364  cd sub_1
+  365  history>log.txt
